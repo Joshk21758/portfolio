@@ -1,5 +1,6 @@
 import { motion } from "motion/react";
 import { skills } from "../data";
+import ProfilePic from "../../images/myprofile.jpg";
 import { CircleChevronRight } from "lucide-react";
 
 export default function About() {
@@ -63,9 +64,9 @@ export default function About() {
             <div className="aspect-square max-w-md mx-auto relative rounded-b-full rounded-t-full overflow-hidden group">
               <div className="absolute inset-0 bg-blue-600/20 group-hover:bg-transparent transition-colors z-10 duration-500"></div>
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
+                src={ProfilePic}
                 alt="Portrait"
-                className="w-full h-full object-cover filter grayscale group-hover:grayscale-0 transition-all duration-500"
+                className="w-full h-122 object-cover filter grayscale group-hover:grayscale-0 transition-all duration-500"
               />
             </div>
             {/* Decorative offset border */}
