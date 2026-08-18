@@ -2,7 +2,6 @@
 
 My Personal portfolio website built with React + Vite showcasing projects, skills and contact information.
 
-Demo: (Add your deployed URL here)
 
 ## Table of contents
 - About
