@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A responsive personal portfolio with a project gallery and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
