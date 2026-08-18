@@ -83,7 +83,7 @@ export default function Header() {
               <Github size={18} />
             </a>
             <a
-              href="https://www.linkedin.com/in/mwansa-kunda"
+              href="https://www.linkedin.com/in/mwansa-kunda-0bbb6540a"
               className="hover:text-blue-600 transition-colors"
             >
               <Linkedin size={18} />

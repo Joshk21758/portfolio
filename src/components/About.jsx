@@ -61,8 +61,8 @@ export default function About() {
             transition={{ duration: 0.5 }}
             className="relative"
           >
-            <div className="aspect-square max-w-md mx-auto relative rounded-b-full rounded-t-full overflow-hidden group">
-              <div className="absolute inset-0 bg-blue-600/20 group-hover:bg-transparent transition-colors z-10 duration-500"></div>
+            <div className="aspect-auto max-w-md mx-auto relative rounded-b-full rounded-t-full overflow-hidden group">
+              <div className="absolute inset-0 bg-transparent group-hover:bg-transparent transition-colors z-10 duration-500"></div>
               <img
                 src={ProfilePic}
                 alt="Portrait"
@@ -70,7 +70,6 @@ export default function About() {
               />
             </div>
             {/* Decorative offset border */}
-            <div className="absolute top-6 left-6 w-full h-full border-2 border-blue-600 rounded-2xl -z-10 translate-x-4 translate-y-4 max-w-md hidden md:block"></div>
           </motion.div>
         </div>
       </div>
