@@ -9,12 +9,7 @@ Demo: (Add your deployed URL here)
 - Features
 - Tech stack
 - Project structure
-- Getting started
   - Prerequisites
-  - Install
-  - Development
-  - Build / Preview
-- Deployment
 - Contact
 
 ## About
