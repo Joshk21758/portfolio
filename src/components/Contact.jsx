@@ -118,7 +118,7 @@ export default function Contact() {
               </label>
               <textarea
                 name="message"
-                rows={5}
+                rows={4}
                 className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-blue-600 focus:border-transparent outline-none transition-all bg-white resize-none placeholder-slate-500"
                 placeholder="Share your thoughts..."
               />
