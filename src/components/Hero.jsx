@@ -25,7 +25,7 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
         >
           <span className="inline-block py-1 px-3 rounded-full border border-gray-400 bg-gray-100 text-blue-700 text-lg font-medium tracking-wide mb-6">
-            SOFTWARE DEVELOPER
+            YOU LEARN BY MISTAKES
           </span>
         </motion.div>
 
