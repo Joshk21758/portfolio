@@ -36,7 +36,7 @@ export default function Hero() {
           className="text-4xl md:text-7xl font-extrabold text-slate-950 tracking-tight mb-8"
         >
           Building creative software
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-blue-600">
+          <span className="text-neutral-800 ">
             products &amp; solutions
           </span>{" "}
           for performance & scalability.
