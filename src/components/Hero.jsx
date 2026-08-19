@@ -35,11 +35,11 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-4xl md:text-7xl font-extrabold text-slate-950 tracking-tight mb-8"
         >
-          Building impactful software <br className="hidden md:block" />
+          Building creative software
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-700 to-blue-600">
             products &amp; solutions
           </span>{" "}
-          that matter.
+          for performance & scalability.
         </motion.h1>
 
         <motion.p
