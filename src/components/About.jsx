@@ -23,15 +23,16 @@ export default function About() {
                 Hello! My name is Mwansa Kunda and I enjoy creating things that
                 live on the internet. My interest in web development started
                 back in 2019 when I decided to try editing custom HTML5 web
-                templates — turns out building website was about structure, and
-                design. I later went on to learn CSS to apply building
-                responsive and attractive web page designs.
+                templates — turns out building websites was about structure, and
+                design. I later went on to learn CSS to apply crafting
+                responsive and attractive web pages.
               </p>
               <p className="font-custom font-normal">
                 Fast-forward to today, and I've had the privilege of advancing
-                my web fundamnetal knowledge by learning JavaScript frameworks,
-                like Express Js and React. It has actually been a tedious
-                journey, but I'm glad I've understood what i have learnt so far.
+                my JavaScript with FreeCodeCamp courses as well as learning some
+                JavaScript frameworks, like Express Js and React. It has
+                actually been a tedious journey, but I'm glad I've understood
+                what i have learnt so far.
               </p>
               <p className="font-custom font-normal">
                 Here are a few technologies &amp; languages I've been working
