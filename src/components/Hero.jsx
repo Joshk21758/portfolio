@@ -30,10 +30,8 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-3xl md:text-6xl font-extrabold text-slate-950 tracking-tight mb-8"
         >
-          Building creative software
-          <span className="text-neutral-800 ">
-            products &amp; solutions
-          </span>{" "}
+          Building creative software{" "}
+          <span className="text-neutral-800 ">products &amp; solutions</span>{" "}
           for performance & scalability.
         </motion.h1>
 
