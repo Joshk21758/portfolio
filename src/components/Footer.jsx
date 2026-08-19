@@ -11,9 +11,6 @@ export default function Footer() {
           <a href="#" className="hover:text-white transition-colors p-2">
             <Linkedin size={24} />
           </a>
-          <a href="#" className="hover:text-white transition-colors p-2">
-            <Twitter size={24} />
-          </a>
         </div>
         <p className="text-lg font-medium mb-2 text-gray-400 transition-colors cursor-default">
           Designed & Built by Mwansa Kunda

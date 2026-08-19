@@ -130,9 +130,6 @@ export default function Header() {
             <a href="#" className="hover:text-blue-600 transition-colors">
               <Linkedin size={20} />
             </a>
-            <a href="#" className="hover:text-blue-600 transition-colors">
-              <Twitter size={20} />
-            </a>
           </div>
         </motion.div>
       )}
