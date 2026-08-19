@@ -13,11 +13,6 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen flex items-center justify-center pt-20 overflow-hidden bg-slate-100">
-      {/* Background decoration */}
-      <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-indigo-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob"></div>
-      <div className="absolute top-1/3 right-1/4 w-96 h-96 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-2000"></div>
-      <div className="absolute -bottom-8 left-1/3 w-96 h-96 bg-pink-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-4000"></div>
-
       <div className="max-w-7xl mx-auto px-6 md:px-12 relative z-10 text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -25,7 +20,7 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
         >
           <span className="inline-block py-1 px-3 rounded-full border border-gray-400 bg-gray-100 text-blue-700 text-lg font-medium tracking-wide mb-6">
-            YOU LEARN BY MISTAKES
+            SOFTWARE ENGINEERING
           </span>
         </motion.div>
 
@@ -33,7 +28,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.1 }}
-          className="text-4xl md:text-7xl font-extrabold text-slate-950 tracking-tight mb-8"
+          className="text-3xl md:text-5xl font-extrabold text-slate-950 tracking-tight mb-8"
         >
           Building creative software
           <span className="text-neutral-800 ">
