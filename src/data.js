@@ -18,8 +18,8 @@ export const projects = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgDDMbHHU-mzk_sp2U2dgDIDV_5NDZtyLpjnmgUAG0ZF1BweVohkeNr7M&s=10",
     tags: ["React", "MongoDB", "Nodemailer", "Tailwind CSS"],
-    gitLink: "https://github.com/Joshk21758/Med-care",
-    link: "https://exquisite-bavarois-8145d4.netlify.app/",
+    gitLink: "https://github.com/Joshk21758/Health-treat",
+    link: "https://health-treat.vercel.app/",
   },
 ];
 
