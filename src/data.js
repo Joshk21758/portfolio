@@ -14,8 +14,8 @@ export const projects = [
     id: 2,
     title: "Medical Care Booking system",
     description:
-      "A Health care bookign system currently under development as a personal projects.    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgDDMbHHU-mzk_sp2U2dgDIDV_5NDZtyLpjnmgUAG0ZF1BweVohkeNr7M&s=10",
+      "A Health care booking system currently under development as a personal projects.
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgDDMbHHU-mzk_sp2U2dgDIDV_5NDZtyLpjnmgUAG0ZF1BweVohkeNr7M&s=10",
     tags: ["React", "MongoDB", "Nodemailer", "Tailwind CSS"],
     gitLink: "https://github.com/Joshk21758/Health-treat",
     link: "https://health-treat.vercel.app/",
