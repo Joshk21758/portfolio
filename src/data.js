@@ -14,8 +14,7 @@ export const projects = [
     id: 2,
     title: "Medical Care Booking system",
     description:
-      "An Online booking system for Lusaka's New Life Medical Centre. Currently under development.",
-    image:
+      "A Health care bookign system currently under development as a personal projects.    image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdgDDMbHHU-mzk_sp2U2dgDIDV_5NDZtyLpjnmgUAG0ZF1BweVohkeNr7M&s=10",
     tags: ["React", "MongoDB", "Nodemailer", "Tailwind CSS"],
     gitLink: "https://github.com/Joshk21758/Health-treat",
